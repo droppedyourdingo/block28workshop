@@ -8,7 +8,7 @@ export default function Linking() {
         <div id="navbar">
             <Link to="/blue">Blue</Link>
             <Link to="/red">Red</Link>
-            <Link to="/home">Home</Link>
+            <Link to="/">Home</Link>
             <Link to="/credit">Credit</Link>
         </div>
 
