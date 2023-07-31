@@ -13,8 +13,8 @@ export default function Routing() {
         <Routes>
             <Route path= "/blue" element={<Blue/>}/>
             <Route path="/red" element={<Red/>}/>
-            <Route path="/home" element={<Home/>}/>
-            <Route path="/" element={<Credit/>}/>
+            <Route path="/" element={<Home/>}/>
+            <Route path="/credit" element={<Credit/>}/>
         </Routes>
     </div>
     
